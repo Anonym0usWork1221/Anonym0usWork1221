@@ -1,4 +1,4 @@
-### <center> Hello, I'm Abdul Moez 👋</center>
+### <center> Hello World!, I'm Abdul Moez </center>
 
 ## About Me
 * I’m pursuing Masters in Python Data Sciences
