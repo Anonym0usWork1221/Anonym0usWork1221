@@ -1,11 +1,11 @@
 ### <center> Hello World!, I'm Abdul Moez </center>
 
 ## About Me
-* I’m pursuing Masters in Python Data Sciences
-* I love to work on new languages and platforms
-* I love programming and reverse engineering
-* Know more about me: https://jaradevelopers.site/
-* One weird fact: I sometimes go into deep thoughts about life
+* Abdul Moez is my given name.
+* I am an undergraduate student at GCU Lahore in Pakistan.
+* Study: BSCS course of study
+* I am fascinated about ethical hacking and reverse engineering.
+* Anything on my github is just for educational reasons.
 
 ## Socials Networks
 ![](https://komarev.com/ghpvc/?username=Anonym0usWork1221) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-moez-374114235)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCP-5_1vvVXzjbF4iLm5Yb4w) [![GitHub Anonym0usWork1221](https://img.shields.io/github/followers/Anonym0usWork1221?label=follow&style=social)](https://github.com/Anonym0usWork1221) [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/RULEROFCODES) [![channel icon](https://patrolavia.github.io/telegram-badge/follow.png)](https://t.me/RulerKingCodes)
