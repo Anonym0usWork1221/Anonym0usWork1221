@@ -1,11 +1,15 @@
-### <center> Hello World!, I'm Abdul Moez </center>
+<h1 align="center">Hello World! 👋 I'm Abdul Moez</h1>
 
-## About Me
-* Abdul Moez is my given name.
-* I am an undergraduate student at GCU Lahore in Pakistan.
-* Study: BSCS course of study
-* I am fascinated about ethical hacking and reverse engineering.
-* Anything on my github is just for educational reasons.
+<h2>About Me</h2>
+
+<ul>
+  <li>📚 Undergraduate student at GCU Lahore, Pakistan</li>
+  <li>🎓 Pursuing BSCS</li>
+  <li>💡 Fascinated by ethical hacking and reverse engineering</li>
+  <li>👨‍💻 Anything on my GitHub is for educational purposes</li>
+</ul>
+
+
 
 ## Socials Networks
 ![](https://komarev.com/ghpvc/?username=Anonym0usWork1221) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-moez-374114235)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCP-5_1vvVXzjbF4iLm5Yb4w) [![GitHub Anonym0usWork1221](https://img.shields.io/github/followers/Anonym0usWork1221?label=follow&style=social)](https://github.com/Anonym0usWork1221) [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/RULEROFCODES) [![channel icon](https://patrolavia.github.io/telegram-badge/follow.png)](https://t.me/RulerKingCodes)
