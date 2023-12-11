@@ -7,6 +7,7 @@
   <li>🎓 Pursuing BSCS</li>
   <li>💡 Fascinated by ethical hacking and reverse engineering</li>
   <li>👨‍💻 Anything on my GitHub is for educational purposes</li>
+  <li>👨‍💻 Interested in hiring me for private projects? Check out my [Upwork profile](https://www.upwork.com/freelancers/abdulm191). </li>
 </ul>
 
 
