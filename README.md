@@ -1,23 +1,256 @@
-<h1 align="center">Hello World! 👋 I'm Abdul Moez</h1>
+<div align="center">
 
-<h2>About Me</h2>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:00bfff&height=200&section=header&text=Abdul%20Moez&fontSize=60&fontColor=00ff88&fontAlignY=38&desc=Ethical%20Hacker%20%7C%20Reverse%20Engineer%20%7C%20Full-Stack%20Dev&descSize=18&descAlignY=58&descColor=8be9fd&animation=twinkling" width="100%"/>
 
-<ul>
-  <li>💡 Fascinated by ethical hacking and reverse engineering</li>
-  <li>👨‍💻 Anything on my GitHub is for educational purposes</li>
-  <li>👨‍💻 Interested in hiring me for private projects? Check out my <a href="https://www.upwork.com/freelancers/abdulm191">Upwork profile</a>. </li>
-</ul>
+<!-- TYPING ANIMATION -->
+<a href="https://github.com/Anonym0usWork1221">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=800&lines=To+write+in+code+is+to+craft+the+language+of+the+mind;Ethical+Hacker+%26+Reverse+Engineer;Full-Stack+Developer+%7C+Python+%7C+Django+%7C+React;Breaking+%26+Building+One+System+at+a+Time;BSCS+Student+%40+GCU+Lahore%2C+Pakistan;Founder+%40+DarkBytes+%7C+thedarkbytes.com" alt="Typing SVG" />
+</a>
 
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=Anonym0usWork1221&style=for-the-badge&color=00ff88&labelColor=0d1117&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Anonym0usWork1221?style=for-the-badge&color=00bfff&labelColor=0d1117&label=FOLLOWERS&logo=github" />
+&nbsp;
+<img src="https://img.shields.io/badge/LOCATION-Pakistan-00ff88?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=00ff88" />
 
-## Socials Networks
-![](https://komarev.com/ghpvc/?username=Anonym0usWork1221)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/abdulmoez12)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@rulerking_) 
-[![GitHub Anonym0usWork1221](https://img.shields.io/github/followers/Anonym0usWork1221?label=follow&style=social)](https://github.com/Anonym0usWork1221) 
-[![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/RULEROFCODES) 
-[![channel icon](https://patrolavia.github.io/telegram-badge/follow.png)](https://t.me/RulerKingCodes)
+</div>
 
-## Networks I Worked On
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+---
 
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+## `> whoami`
+
+```bash
+┌──(moez㉿darkbytes)-[~]
+└─$ cat about.txt
+```
+
+```yaml
+Name        : Abdul Moez
+Alias       : Anonym0usWork1221
+Role        : Ethical Hacker · Rev Engineer · Dev
+Education   : BSCS — GCU Lahore, Pakistan
+Organization: DarkBytes (thedarkbytes.com)
+Telegram    : @RULEROFCODES
+Status      : Always learning. Always hacking.
+
+Interests:
+  - Ethical Hacking & Penetration Testing
+  - Reverse Engineering & Binary Analysis
+  - Full-Stack Web & Mobile Development
+  - Machine Learning & AI Systems
+  - Open-Source Tooling & Automation
+
+Mantra: "To write in code is to craft the
+         language of the mind; where thoughts
+         take shape and logic doth bind."
+```
+
+</td>
+<td width="45%" valign="top">
+
+## `> stats --live`
+
+<img src="https://github-readme-stats-forked-v1.vercel.app/api?username=Anonym0usWork1221&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff88&icon_color=00bfff&text_color=c9d1d9&border_color=00ff8830&rank_icon=github&include_all_commits=true&count_private=true" width="100%" />
+
+<img src="https://streak-stats.demolab.com?user=Anonym0usWork1221&theme=dark&background=0d1117&ring=00ff88&fire=ff6e6e&currStreakLabel=00bfff&sideLabels=00ff88&border=00ff8830&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `> achievements --stats`
+
+![Stars](https://img.shields.io/github/stars/Anonym0usWork1221?style=for-the-badge&color=00ff88&labelColor=0d1117&label=TOTAL%20STARS&logo=github)
+&nbsp;
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAnonym0usWork1221&query=%24.public_repos&style=for-the-badge&color=00bfff&labelColor=0d1117&label=PUBLIC%20REPOS&logo=github)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Anonym0usWork1221?style=for-the-badge&color=00ff88&labelColor=0d1117&label=FOLLOWERS&logo=github)
+&nbsp;
+![Gists](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAnonym0usWork1221&query=%24.public_gists&style=for-the-badge&color=00bfff&labelColor=0d1117&label=GISTS&logo=github)
+
+<br/>
+
+![C-Android-Memory-Tool Stars](https://img.shields.io/github/stars/Anonym0usWork1221/C-Android-Memory-Tool?style=for-the-badge&color=00ff88&labelColor=0d1117&logo=github&label=C-Android-Memory-Tool)
+&nbsp;
+![Free-Proxies Stars](https://img.shields.io/github/stars/Anonym0usWork1221/Free-Proxies?style=for-the-badge&color=00bfff&labelColor=0d1117&logo=github&label=Free-Proxies)
+&nbsp;
+![android-memorytool Stars](https://img.shields.io/github/stars/Anonym0usWork1221/android-memorytool?style=for-the-badge&color=00ff88&labelColor=0d1117&logo=github&label=android-memorytool)
+&nbsp;
+![GMapsScraper Stars](https://img.shields.io/github/stars/Anonym0usWork1221/GMapsScraper?style=for-the-badge&color=00bfff&labelColor=0d1117&logo=github&label=GMapsScraper)
+
+</div>
+
+---
+
+<div align="center">
+
+## `> languages --top`
+
+<img src="https://github-readme-stats-forked-v1.vercel.app/api/top-langs/?username=Anonym0usWork1221&layout=donut&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_color=00ff8830&langs_count=10&size_weight=0.5&count_weight=0.5" height="290" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats-forked-v1.vercel.app/api/top-langs/?username=Anonym0usWork1221&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_color=00ff8830&langs_count=10" height="290" />
+
+</div>
+
+---
+
+## `> tech-stack --all`
+
+### ◈ Languages
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,kotlin,go,php,js,html,css,markdown&perline=12&theme=dark" />
+</div>
+
+### ◈ Frameworks & Libraries
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,nextjs,nodejs,express,tailwind,bootstrap,flutter,dotnet,jquery&perline=12&theme=dark" />
+</div>
+
+### ◈ Databases & Caching
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,elasticsearch&perline=12&theme=dark" />
+</div>
+
+### ◈ Cloud & DevOps
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=aws,gcp,heroku,netlify,digitalocean,cloudflare,docker,nginx,linux,ubuntu,bash&perline=12&theme=dark" />
+</div>
+
+### ◈ Tools & Platforms
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,cmake,gradle,arduino,raspberrypi,firebase,tensorflow,pytorch,opencv,figma&perline=12&theme=dark" />
+</div>
+
+### ◈ Security Arsenal
+
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-4B0082?style=for-the-badge&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![nmap](https://img.shields.io/badge/nmap-214478?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## `> git log --graph --all`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anonym0usWork1221&bg_color=0d1117&color=00ff88&line=00bfff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `> snake --eat-contributions`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./snake.svg" />
+  <img alt="Snake animation" src="./snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## `> contrib --3d`
+
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
+---
+
+## `> ls ~/projects --featured`
+
+<div align="center">
+
+<a href="https://github.com/Anonym0usWork1221/Free-Proxies">
+  <img src="https://github-readme-stats-forked-v1.vercel.app/api/pin/?username=Anonym0usWork1221&repo=Free-Proxies&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff88&icon_color=00bfff&text_color=c9d1d9&border_color=00ff8830&show_owner=false" />
+</a>
+<a href="https://github.com/Anonym0usWork1221/C-Android-Memory-Tool">
+  <img src="https://github-readme-stats-forked-v1.vercel.app/api/pin/?username=Anonym0usWork1221&repo=C-Android-Memory-Tool&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff88&icon_color=00bfff&text_color=c9d1d9&border_color=00ff8830&show_owner=false" />
+</a>
+<a href="https://github.com/Anonym0usWork1221/android-memorytool">
+  <img src="https://github-readme-stats-forked-v1.vercel.app/api/pin/?username=Anonym0usWork1221&repo=android-memorytool&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff88&icon_color=00bfff&text_color=c9d1d9&border_color=00ff8830&show_owner=false" />
+</a>
+<a href="https://github.com/Anonym0usWork1221/GMapsScraper">
+  <img src="https://github-readme-stats-forked-v1.vercel.app/api/pin/?username=Anonym0usWork1221&repo=GMapsScraper&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff88&icon_color=00bfff&text_color=c9d1d9&border_color=00ff8830&show_owner=false" />
+</a>
+
+</div>
+
+---
+
+## `> contact --social`
+
+<div align="center">
+
+<a href="https://github.com/Anonym0usWork1221">
+  <img src="https://img.shields.io/badge/GitHub-Anonym0usWork1221-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/abdulmoez12">
+  <img src="https://img.shields.io/badge/LinkedIn-Abdul_Moez-00bfff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://thedarkbytes.com">
+  <img src="https://img.shields.io/badge/Website-thedarkbytes.com-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+<a href="https://t.me/RULEROFCODES">
+  <img src="https://img.shields.io/badge/Telegram-RULEROFCODES-00bfff?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://t.me/RulerKingCodes">
+  <img src="https://img.shields.io/badge/Telegram_Channel-RulerKingCodes-00ff88?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@rulerking_">
+  <img src="https://img.shields.io/badge/YouTube-%40rulerking__-ff0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%2300ff88&borderColor=%2300ff8830&qColor=%2300bfff&aColor=%23ffffff" width="55%" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:00ff88,100:0d1117&height=120&section=footer&text=Happy%20Hacking&fontSize=24&fontColor=0d1117&fontAlignY=70&animation=twinkling" width="100%" />
+
+*If my repos helped you — drop a star. It keeps me going.*
+
+</div>
